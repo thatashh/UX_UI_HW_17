@@ -287,7 +287,7 @@ footer {
     height: 150px;   
 }
 
-.footerCTA {
+button.footerCTA {
     display: inline-block;
     background-color: transparent;
     border: transparent;
